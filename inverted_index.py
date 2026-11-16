@@ -1,9 +1,10 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Calvin Kamada
 # FILENAME: inverted_index.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: Program that maintains document and inverted_index collection and demonstrates MongoDB 
+# operations in Python
 # FOR: CS 4250 - Assignment #3
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 3 Hours
 #-------------------------------------------------------------------------
 
 # Importing Python libraries
